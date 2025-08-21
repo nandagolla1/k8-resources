@@ -6,7 +6,7 @@ metadata:
     project: roboshop
     purpose: multi-container-demo
 spec:
-  container:
+  containers:
   - name: nginx
     image: nginx
   - name: almalinux
