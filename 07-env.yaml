@@ -10,6 +10,6 @@ spec:
     image: nginx
     env:
     - name: COURSE
-    - value: "KUBERNETES"
+      value: "KUBERNETES"
     - name: TRAINER
-    - value: "DEVOPS TRAINER"
+      value: "DEVOPS TRAINER"
