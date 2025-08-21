@@ -9,7 +9,7 @@ spec:
   - name: nginx
     image: nginx
     env:
-    - name: "COURSE"
+    - name: COURSE
     - value: "KUBERNETES"
-    - name: "TRAINER"
+    - name: TRAINER
     - value: "DEVOPS TRAINER"
